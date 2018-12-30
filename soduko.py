@@ -1,4 +1,5 @@
-#Exercice 2: Sudoku
+#Amina Babaslimane bbsmina09@gmail.com
+#BEZIA Ayoub Ayoub.bezia@gmail.com
 
 from __future__ import print_function
 from Numberjack import *
