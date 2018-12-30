@@ -2,8 +2,8 @@
 sudoku solver using Constraint Satisfaction Problem methode and numberjack library.
 
 
-#installing numberjack
+# installing numberjack
 
 pip install numberjack
 
-#python version 2
+# python version 2
